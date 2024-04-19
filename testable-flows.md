@@ -78,3 +78,5 @@ And the user enters "') or ('1'='1--" in the input text field
 And the user click Go button  
 Then a generic error message is shown above the search field    
 And after 5 seconds the feedback message disappears    
+
+Repository with the code: https://github.com/MemoRuan/automation-challenge/tree/master
